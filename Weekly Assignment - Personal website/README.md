@@ -1,1 +1,1 @@
-# Personal-Web-Page
+This landing page presenting a timer. The timer idea came from the last few days when I had whishing thoughts about the Summer and the beach. the timer was supposed to be until the Winter season is over. I just liked the dynamite pic so I used it and set it to go off when Summer starts. no logic in this, please do not seek any logic.
